@@ -1,0 +1,17 @@
+{
+  "name": "node-hw",
+  "version": "1.0.0",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "description": "homework",
+  "main": "hw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "mikekalabay",
+  "license": "ISC"
+}
